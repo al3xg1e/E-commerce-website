@@ -9,6 +9,7 @@
 nav{
     height: 80px;
     display: flex;
+    margin-bottom: 160px;
 }
 
 .nav__container{
